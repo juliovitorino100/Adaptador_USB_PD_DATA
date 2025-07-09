@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HKNZICDL
 
 [Document2]
 DocumentPath=03 - LIBRARY\Schlib2.SchLib
@@ -99,6 +99,104 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document4]
+DocumentPath=02 - PCB\PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WURTXLQX
+
+[Document5]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=04 - GERBER\NC Drill\PCB1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=04 - GERBER\NC Drill\PCB1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=04 - GERBER\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=04 - GERBER\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=04 - GERBER\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=04 - GERBER\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=04 - GERBER\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=04 - GERBER\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=04 - GERBER\Gerber\PCB1.GM
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=04 - GERBER\Gerber\PCB1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=04 - GERBER\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=04 - GERBER\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=04 - GERBER\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=04 - GERBER\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=04 - GERBER\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=04 - GERBER\Gerber\PCB1.REP
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
